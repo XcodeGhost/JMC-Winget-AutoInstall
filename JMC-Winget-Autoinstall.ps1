@@ -89,6 +89,9 @@ Invoke-WebRequest -Uri "https://github.com/R-YaTian/LTSC-Add-MicrosoftStore-2021
 
 #Invoke-WebRequest -Uri "" -OutFile "$destination\"
 
+wsreset -i
+
 pause
 
 #.:: Incluir: DCTFWEB, RECEITANET, GIA, SPEDFISCAL
+
