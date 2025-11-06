@@ -4,7 +4,7 @@
 Set-ExecutionPolicy Unrestricted -Scope Process
 
 <### BLOCO PRINCIPAL DE EXECUCAO DO WINGET ###>
-    winget install AnyDesk --force --accept-source-agreements --accept-package-agreements 
+    #winget install AnyDesk --force --accept-source-agreements --accept-package-agreements 
     winget install revouninstaller.revouninstaller  --accept-source-agreements --accept-package-agreements
     winget install geeksoftwareGmbH.PDF24Creator --accept-source-agreements --accept-package-agreements
     winget install ente-io.auth-desktop --accept-source-agreements --accept-package-agreements
@@ -94,4 +94,5 @@ wsreset -i
 pause
 
 #.:: Incluir: DCTFWEB, RECEITANET, GIA, SPEDFISCAL
+
 
