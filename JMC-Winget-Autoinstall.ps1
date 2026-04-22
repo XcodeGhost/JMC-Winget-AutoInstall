@@ -15,7 +15,7 @@ Set-ExecutionPolicy Unrestricted -Scope Process
     winget install Microsoft.Teams  --accept-source-agreements --accept-package-agreements
     #winget install Microsoft.Office  --accept-source-agreements --accept-package-agreements
     winget install Google.Chrome  --accept-source-agreements --accept-package-agreements
-    winget install Mozilla.Firefox  --accept-source-agreements --accept-package-agreements
+    winget install Mozilla.Firefox.pt-BR  --accept-source-agreements --accept-package-agreements
     #winget install Opera.Opera  --accept-source-agreements --accept-package-agreements
     #winget install winrar  --accept-source-agreements --accept-package-agreements
     winget install 7zip.7zip  --accept-source-agreements --accept-package-agreements
